@@ -46,3 +46,5 @@ Web Activity Time Tracker is available via the official [Chrome Web Store](https
 
 This work is licensed under an MIT License.
 # Activity-Tracker
+# Activity-Tracker
+# Activity-Tracker
